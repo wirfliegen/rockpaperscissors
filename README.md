@@ -10,7 +10,7 @@ In this unit, coders will create a Rock, Paper, Scissors game. The Rock, Paper, 
 #### Set-Up
 - [x] Go to the repository at https://github.com/ScriptEdcurriculum/rockpaperscissors
 - [x] Fork this repository to your github account and clone to a new workspace
-- [ ] Add, commit, and push your changes
+- [x] Add, commit, and push your changes
 - [x] Make your site live on gh-pages
 
 ### JavaScript
@@ -18,22 +18,22 @@ In this unit, coders will create a Rock, Paper, Scissors game. The Rock, Paper, 
 
 
 ### HTML and CSS
-- [ ] Add any more HTML elements you will need to the page
-- [ ] Customize your HTML with CSS
+- [x] Add any more HTML elements you will need to the page
+- [x] Customize your HTML with CSS
 
 #### Wrap
-- [ ] Push your changes!
-- [ ] Save and submit your website using the link on the Daily Session Document.
+- [x] Push your changes!
+- [x] Save and submit your website using the link on the Daily Session Document.
 
 ## Day 2
 
 ### Javascript 
 
-- [ ] Outside of your click handler, declare 3 variables (userChoice, computerChoice and winner) and assign them values of empty strings
-- [ ] Outside of your click handler, declare a randomNumber variable and set it equal to 0
-- [ ] In your click handler, generate a random number and assign it to the randomNumber variable
-- [ ] In your click handler, store the input value in the userChoice variable	
-- [ ] In your click handler, display userChoice to the screen
+- [x] Outside of your click handler, declare 3 variables (userChoice, computerChoice and winner) and assign them values of empty strings
+- [x] Outside of your click handler, declare a randomNumber variable and set it equal to 0
+- [x] In your click handler, generate a random number and assign it to the randomNumber variable
+- [x] In your click handler, store the input value in the userChoice variable	
+- [x] In your click handler, display userChoice to the screen
 #### Wrap
 - [ ] Push your changes!
 
