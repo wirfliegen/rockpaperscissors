@@ -35,15 +35,15 @@ In this unit, coders will create a Rock, Paper, Scissors game. The Rock, Paper, 
 - [x] In your click handler, store the input value in the userChoice variable	
 - [x] In your click handler, display userChoice to the screen
 #### Wrap
-- [ ] Push your changes!
+- [x] Push your changes!
 
 ## Day 3
 
 ## JavaScript
-- [ ] Write a conditional statement which, given the number range of randomNumber, assigns ‘rock’, ‘paper’ or ‘scissors’ to the computerChoice variable 
-- [ ] Display the computerChoice to the screen
-- [ ] Write a conditional statement that compares the userChoice to the computerChoice to determine the winner of the game
-- [ ] Display the winner to the screen in the result div
+- [x] Write a conditional statement which, given the number range of randomNumber, assigns ‘rock’, ‘paper’ or ‘scissors’ to the computerChoice variable 
+- [x] Display the computerChoice to the screen
+- [x] Write a conditional statement that compares the userChoice to the computerChoice to determine the winner of the game
+- [x] Display the winner to the screen in the result div
 - [ ] Clear the input value once a result is displayed
 
 #### Wrap
@@ -54,7 +54,7 @@ In this unit, coders will create a Rock, Paper, Scissors game. The Rock, Paper, 
 - [ ] Validates input so that it will return “Not valid input” if the user types in a wrong choice. 
 - [ ] Accepts any form of a word regardless of capitalization (i.e. “Rock” “rock” roCk”)
 - [ ] Keeps track of total wins and losses, until the page refreshes. 
-- [ ] Create a game with more variety in throwing options. Example: [Rock-Paper-Scissors-Lizard-Spock](http://en.wikipedia.org/wiki/Rock-paper-scissors-lizard-Spock)
+- [x] Create a game with more variety in throwing options. Example: [Rock-Paper-Scissors-Lizard-Spock](http://en.wikipedia.org/wiki/Rock-paper-scissors-lizard-Spock)
 
 ## References/Tools
 * [Advanced Reference Table]()
